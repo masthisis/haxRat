@@ -5,6 +5,8 @@ exports.debug = false;
 exports.web_port = 22533;
 exports.control_port = 22222;
 
+exports.apkName = 'test';
+
 // Paths
 
 exports.termux = '/data/data/com.termux/files/home'
